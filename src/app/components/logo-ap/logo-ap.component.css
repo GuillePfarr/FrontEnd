@@ -16,7 +16,7 @@ img {
     width: 50px;
 }
 
-.btn {
+.btn btn-outline-light {
     border-width: medium;
     width: 150px;
     height: 50px;
