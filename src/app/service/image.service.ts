@@ -16,7 +16,7 @@ export class ImageService {
     .then(response => {this.getImages()})
     .catch(error => console.log(error)
 
-    )
+    );
   }
 
   getImages(){
