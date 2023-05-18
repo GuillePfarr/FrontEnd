@@ -22,7 +22,7 @@ img {
     height: 50px;
 }
 
-/** Para la vista de celular**/
+
 @media (max-width: 575px) {
     .container {
         flex-direction: column;
